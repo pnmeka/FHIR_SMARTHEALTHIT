@@ -20,7 +20,7 @@ d) save the file
 
 step3 : 
 
-          pip install -r requirments.txt
+          pip install -r requirements.txt
           python3 FHIR_API.py
 
 This should pull all data, store it in a json file and read the json file to populate with patient demographics, enounters, encounter specific observations etc and print them in terrminal.
